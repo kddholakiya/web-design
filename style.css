@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.navbar{
+    background: #00FF27;
+}
+
+.icon .fa-user{
+    font-size: 30px;
+}
+.btn{
+    background: #00FF27;
+}
+ form .input{
+    background: #03FF5D;
+}
+form .btn{
+    background: #03FF5D;
+}
+footer{
+    background: #03FF5D;
+}
+.ul-list a{
+    color: black;
+    font-weight: 500;
+}
